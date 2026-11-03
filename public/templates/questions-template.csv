@@ -1,0 +1,3 @@
+position,tier,prompt,option_a,option_b,option_c,option_d,correct_option,explanation,level,points,duration_seconds
+1,1,"Choisissez la formulation correcte.", "Je suis allé au marché.", "Je suis aller au marché.", "Je suis allé à le marché.", "Je vais allé au marché.",A,"Le passé composé de aller se forme avec être.",A2,1,
+2,1,"Complétez : Nous ___ demain matin.", "partons", "partirons", "sommes partis", "partir",B,"Le futur simple exprime ici une action à venir.",A2,1,

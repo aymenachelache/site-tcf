@@ -1,0 +1,34 @@
+[
+  {
+    "position": 1,
+    "tier": 1,
+    "prompt": "Choisissez la formulation correcte.",
+    "options": [
+      "Je suis allé au marché.",
+      "Je suis aller au marché.",
+      "Je suis allé à le marché.",
+      "Je vais allé au marché."
+    ],
+    "correct_option": "A",
+    "explanation": "Le passé composé de aller se forme avec être.",
+    "level": "A2",
+    "points": 1,
+    "duration_seconds": null
+  },
+  {
+    "position": 2,
+    "tier": 1,
+    "prompt": "Complétez : Nous ___ demain matin.",
+    "options": [
+      "partons",
+      "partirons",
+      "sommes partis",
+      "partir"
+    ],
+    "correct_option": "B",
+    "explanation": "Le futur simple exprime ici une action à venir.",
+    "level": "A2",
+    "points": 1,
+    "duration_seconds": null
+  }
+]
